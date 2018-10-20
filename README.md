@@ -1,0 +1,2 @@
+# CSprogramming_CS_Project1
+This project is designed to test a C# Dynamic Library project that is designed to store data regarding Countries. The Dynamic Library contains classes that will store Currency data  ( class: Currency.cs )  and Language data  ( class: Language.cs ) . This library also contains a class ( class: CountryAppUnitTesting.cs ) that is designed to run unit test. This solution is linked to that Dynamic Library and will display a menu to the user that will allow them to run a unit test on each class.

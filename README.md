@@ -4,6 +4,7 @@ An automated unit testing application.
 # What I learned
 * C# properties
 * How to automate unit testing
+* How to add a DLL in visual studios
 
 # How to use this application
 This solution is requires the CountryDynamicLinkLibrary. See CountryDynamicLinkLibrary repository.

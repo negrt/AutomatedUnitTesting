@@ -6,8 +6,8 @@ An automated unit testing application.
 * How to automate unit testing
 * How to add a DLL in visual studios
 
-# How to use this application
-This solution is requires the CountryDynamicLinkLibrary. See CountryDynamicLinkLibrary repository.
+# Notice
+This application uses a separate Dynamic Link Library. See CountryDynamicLinkLibrary repository to run this application appropriately.
 
 # More
 This project is designed to test a C# Dynamic Library project. It will display a menu to the user that will allow them to run a unit test on each class. The DLL contains classes that will store Currency data  ( class: Currency.cs )  and Language data  ( class: Language.cs ) . This library also contains a class ( class: CountryAppUnitTesting.cs ) that is designed to run unit test. The DLL is designed to store data related to Countries.

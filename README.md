@@ -4,7 +4,7 @@ An automated unit testing application. Country DLL contains a test unit object.
 # What I learned
 * C# properties
 * How to automate unit testing
-* How to add a DLL
+* How to add a DLL (visual studios 2017)
 
 # Notice
 This application uses a separate Dynamic Link Library. See CountryDynamicLinkLibrary repository to run this application appropriately.

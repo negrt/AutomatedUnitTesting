@@ -1,5 +1,5 @@
 # UnitTesting
-An automated unit testing application.
+An automated unit testing application. DLL contains a test unit object.
 
 # What I learned
 * C# properties
